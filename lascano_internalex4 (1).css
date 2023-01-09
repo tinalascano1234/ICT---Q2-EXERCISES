@@ -1,0 +1,34 @@
+img{
+	height: 150px;
+	width: 260px;
+	padding: 16px;
+	border-radius: 50px;
+	border-style: dashed;
+	border-color: floralwhite;
+	border-width: 2.5px;
+	opacity: .70;
+}
+body{
+	background-color: #FFC885;
+	color: whitesmoke;
+	text-align: center;
+	font-family: initial;
+	margin: 100px;
+}
+table{
+	margin-right: auto;
+	margin-left: auto;
+}
+h1{
+	background-color: #F9EDD5;
+	text-transform: uppercase;
+	color: #E99D00;
+	font-family: cursive;
+	letter-spacing: 14px;
+}
+
+h2{
+	font-family: cursive;
+	letter-spacing: 10px;
+	color: #F1A509;
+}
